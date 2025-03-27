@@ -1,1 +1,8 @@
  The cat fox used to live here but never went out
+
+numerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 595 bytes | 595.00 KiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
